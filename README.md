@@ -351,6 +351,8 @@ npm run build
  </picture>
 </a>
 
+Test opencode trigger
+
 ## ⚠️ 免责声明
 
 本项目仅供学习和研究使用，不构成任何投资建议。股市有风险，投资需谨慎。作者不对使用本项目产生的任何损失负责。
